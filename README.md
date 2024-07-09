@@ -12,7 +12,7 @@ O objetivo deste teste é avaliar suas habilidades em consumir uma API externa, 
 3. Instale as dependências:
     pip install requests pandas
 
-4. Execute o script:
+4. Execute o script no terminal do projeto:
     python fetch_covid_data.py
 
 
