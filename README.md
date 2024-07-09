@@ -17,3 +17,5 @@ O objetivo deste teste é avaliar suas habilidades em consumir uma API externa, 
 
 
 O arquivo covid_data.csv será gerado no diretório atual.
+
+### ps: quando clonar já existe um .csv então apague antes.
