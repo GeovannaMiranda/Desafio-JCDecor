@@ -4,7 +4,7 @@ O objetivo deste teste é avaliar suas habilidades em consumir uma API externa, 
 ## Instruções para Executar o Script
 
 1. Clone o repositório:
-   [git clone ](https://github.com/GeovannaMiranda/Desafio-JCDecor.git)
+   git clone https://github.com/GeovannaMiranda/Desafio-JCDecor.git
 
 2. Navegue até o diretório do projeto:
     cd desafio-jc-decor
