@@ -13,7 +13,7 @@ O objetivo deste teste é avaliar suas habilidades em consumir uma API externa, 
     pip install requests pandas
 
 4. Execute o script no terminal do projeto:
-    python fetch_covid_data.py
+    python find_covid_data.py
 
 
 O arquivo covid_data.csv será gerado no diretório atual.
